@@ -13,3 +13,13 @@ UCR_03_Cooling_Data <-- this repository
 This repository will be kept fairly organized for the purpose of revisiting conclusions in the future, and will (hopefully) serve as the basis for cooling related changes on the UCR-03. All theory used is to be documented in the relevant notebooks.
 
 **If you are unsure of how to use git or why git is used, please refer to the using_git.md file.** This project should serve as a source of information for future members working on cooling systems.
+
+TODO:
+- [x] Analyze $\eta$ of endurance
+- [ ] Analyze $\eta$ of constant rpm aero runs
+- [ ] Analyze $\eta$ of 2024 data
+- [ ] Compare $\eta$ over years and conclude in a single notebook
+- [ ] Review radiator testing data
+- [ ] Estimate $h_{rad}$
+- [ ] Analyze $\Delta T_{air} and \dot{m}_{air}$
+- [ ] Compile results and adjust Simulink model accordingly
