@@ -16,7 +16,7 @@ This repository will be kept fairly organized for the purpose of revisiting conc
 
 TODO:
 - [x] Analyze $\eta$ of endurance
-- [ ] Analyze $\eta$ of constant rpm aero runs
+- [x] Analyze $\eta$ of constant rpm aero runs
 - [ ] Analyze $\eta$ of 2024 data
 - [ ] Compare $\eta$ over years and conclude in a single notebook
 - [ ] Review radiator testing data
