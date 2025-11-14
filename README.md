@@ -17,9 +17,9 @@ This repository will be kept fairly organized for the purpose of revisiting conc
 TODO:
 - [x] Analyze $\eta$ of endurance
 - [x] Analyze $\eta$ of constant rpm aero runs
-- [ ] Analyze $\eta$ of 2024 data
-- [ ] Compare $\eta$ over years and conclude in a single notebook
-- [ ] Review radiator testing data
-- [ ] Estimate $h_{rad}$
+- [ ] Analyze $\eta$ of 2024 data <- Can't, doesnt have motor torque/rpm
+- [ ] Compare $\eta$ over years and conclude in a single notebook <- 2024 Data is incomplete
+- [x] Review radiator testing data
+- [x] Estimate $h_{rad}$; quick estimate from excel, $hA_{rad}$ combined term is ~241, curve cant be assembled without $\dot{m}_{air}$ variance
 - [ ] Analyze $\Delta T_{air} and \dot{m}_{air}$
 - [ ] Compile results and adjust Simulink model accordingly
