@@ -100,6 +100,7 @@ git status
 Shows which files have been modified, added, or are untracked.
 
 ### 2️. Add Files to the Staging Area
+hi
 ```bash
 git add filename
 ```
