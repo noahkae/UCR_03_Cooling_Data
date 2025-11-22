@@ -1,2 +1,4 @@
 data_files/
 /processed_data/
+.idea
+.ipynb_checkpoints/
